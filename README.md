@@ -1,2 +1,2 @@
-# RTG
-Optiver Ready Trader Go Competition
+# Stocktiver 900
+Optiver Ready-Trader-Go Challenge
